@@ -1,0 +1,15 @@
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\bin\Debug\net8.0\FinanceTrackerMVC.Application.deps.json
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\bin\Debug\net8.0\FinanceTrackerMVC.Application.dll
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\bin\Debug\net8.0\FinanceTrackerMVC.Application.pdb
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\bin\Debug\net8.0\FinanceTrackerMVC.Domain.dll
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\bin\Debug\net8.0\FinanceTrackerMVC.Domain.pdb
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.csproj.AssemblyReference.cache
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.AssemblyInfoInputs.cache
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.AssemblyInfo.cs
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.csproj.CoreCompileInputs.cache
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.csproj.CopyComplete
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.dll
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\refint\FinanceTrackerMVC.Application.dll
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.pdb
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\ref\FinanceTrackerMVC.Application.dll

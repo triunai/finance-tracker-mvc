@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FinanceTrackerMVC.Web/1.0.0": {
+        "dependencies": {
+          "FinanceTrackerMVC.Application": "1.0.0",
+          "FinanceTrackerMVC.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "FinanceTrackerMVC.Web.dll": {}
+        }
+      },
+      "FinanceTrackerMVC.Application/1.0.0": {
+        "dependencies": {
+          "FinanceTrackerMVC.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FinanceTrackerMVC.Application.dll": {}
+        }
+      },
+      "FinanceTrackerMVC.Domain/1.0.0": {
+        "runtime": {
+          "FinanceTrackerMVC.Domain.dll": {}
+        }
+      },
+      "FinanceTrackerMVC.Infrastructure/1.0.0": {
+        "dependencies": {
+          "FinanceTrackerMVC.Application": "1.0.0",
+          "FinanceTrackerMVC.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FinanceTrackerMVC.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinanceTrackerMVC.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinanceTrackerMVC.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinanceTrackerMVC.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinanceTrackerMVC.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

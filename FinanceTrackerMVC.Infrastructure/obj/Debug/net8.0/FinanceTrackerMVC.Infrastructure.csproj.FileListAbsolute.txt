@@ -1,0 +1,17 @@
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\bin\Debug\net8.0\FinanceTrackerMVC.Infrastructure.deps.json
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\bin\Debug\net8.0\FinanceTrackerMVC.Infrastructure.dll
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\bin\Debug\net8.0\FinanceTrackerMVC.Infrastructure.pdb
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.AssemblyInfoInputs.cache
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.AssemblyInfo.cs
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.dll
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\refint\FinanceTrackerMVC.Infrastructure.dll
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.pdb
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\ref\FinanceTrackerMVC.Infrastructure.dll
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\bin\Debug\net8.0\FinanceTrackerMVC.Application.dll
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\bin\Debug\net8.0\FinanceTrackerMVC.Domain.dll
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\bin\Debug\net8.0\FinanceTrackerMVC.Application.pdb
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\bin\Debug\net8.0\FinanceTrackerMVC.Domain.pdb
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.csproj.AssemblyReference.cache
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.csproj.CopyComplete

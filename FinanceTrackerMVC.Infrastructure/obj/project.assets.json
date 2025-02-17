@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "FinanceTrackerMVC.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "FinanceTrackerMVC.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FinanceTrackerMVC.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinanceTrackerMVC.Application.dll": {}
+        }
+      },
+      "FinanceTrackerMVC.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FinanceTrackerMVC.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinanceTrackerMVC.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinanceTrackerMVC.Application/1.0.0": {
+      "type": "project",
+      "path": "../FinanceTrackerMVC.Application/FinanceTrackerMVC.Application.csproj",
+      "msbuildProject": "../FinanceTrackerMVC.Application/FinanceTrackerMVC.Application.csproj"
+    },
+    "FinanceTrackerMVC.Domain/1.0.0": {
+      "type": "project",
+      "path": "../FinanceTrackerMVC.Domain/FinanceTrackerMVC.Domain.csproj",
+      "msbuildProject": "../FinanceTrackerMVC.Domain/FinanceTrackerMVC.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "FinanceTrackerMVC.Application >= 1.0.0",
+      "FinanceTrackerMVC.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Khumeren\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GitFork Repo\\MVC-Learning\\FinanceTrackerMVC.Infrastructure\\FinanceTrackerMVC.Infrastructure.csproj",
+      "projectName": "FinanceTrackerMVC.Infrastructure",
+      "projectPath": "D:\\GitFork Repo\\MVC-Learning\\FinanceTrackerMVC.Infrastructure\\FinanceTrackerMVC.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Khumeren\\.nuget\\packages\\",
+      "outputPath": "D:\\GitFork Repo\\MVC-Learning\\FinanceTrackerMVC.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Khumeren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\GitFork Repo\\MVC-Learning\\FinanceTrackerMVC.Application\\FinanceTrackerMVC.Application.csproj": {
+              "projectPath": "D:\\GitFork Repo\\MVC-Learning\\FinanceTrackerMVC.Application\\FinanceTrackerMVC.Application.csproj"
+            },
+            "D:\\GitFork Repo\\MVC-Learning\\FinanceTrackerMVC.Domain\\FinanceTrackerMVC.Domain.csproj": {
+              "projectPath": "D:\\GitFork Repo\\MVC-Learning\\FinanceTrackerMVC.Domain\\FinanceTrackerMVC.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

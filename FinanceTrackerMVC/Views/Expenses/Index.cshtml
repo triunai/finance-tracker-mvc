@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ExpenseDto>;
+@using FinanceTrackerMVC.Application.DTOs
+@{
+    ViewData["Title"] = "Expenses Page";
+}
+
+
+    <style>
+        body {
+            background-color: #f4f4f9;
+        }
+    </style>
+
+
+<div class="container mt-5">
+    <h1 class="text-dark mb-4">Expenses</h1>
+    <table class="table table-hover table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Description</th>
+                <th scope="col">Amount</th>
+                <th scope="col">Payment Method</th>
+                <th scope="col">Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var expense in Model)
+            {
+                <tr>
+                    <td>@expense.Description</td>
+                    <td>@expense.Amount.ToString("C2")</td>
+                    <td>@expense.PaymentMethod</td>
+                    <td>@expense.ExpenseDate.ToString("dd/MM/yyyy")</td>
+                </tr>
+            }
+            @if (!Model.Any())
+            {
+                <tr>
+                    <td colspan="4" class="text-center">No expenses found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FinanceTrackerMVC.Web.props" />
+</Project>
