@@ -6,13 +6,24 @@ using System.Threading.Tasks;
 
 namespace FinanceTrackerMVC.Domain.Enums
 {
+    [Flags]
     public enum PaymentMethod
     {
-        Cash,
-        CreditCard,
-        QRCodePayment,
-        EWallet,
-        BankTransfer,
-        DuitNow
+        [Display(Name = "Cash")]
+        Cash = 1,
+
+        [Display(Name = "Credit Card")]
+        CreditCard = 2,
+
+        [Display(Name = "QR Code Payment")]
+        QRCodePayment = 3,
+
+        [Display(Name = "eWallet")]
+        EWallet = 4,
+
+        [Display(Name = "Bank Transfer")]
+        BankTransfer = 5,
+
+        [Display(Name = "DuitNow")]
+        DuitNow = 6
     }
-}
