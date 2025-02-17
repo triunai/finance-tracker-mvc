@@ -1,3 +1,6 @@
+using FinanceTrackerMVC.Infrastructure;
+using Microsoft.EntityFrameworkCore;
+
 namespace FinanceTrackerMVC
 {
     public class Program
@@ -5,7 +8,8 @@ namespace FinanceTrackerMVC
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+            builder.Services.AddDbContext<FinanceTrackerContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
