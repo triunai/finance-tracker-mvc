@@ -12,7 +12,7 @@ namespace FinanceTrackerMVC
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<FinanceTrackerContext>(options =>
-           options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

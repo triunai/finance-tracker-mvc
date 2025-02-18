@@ -5,18 +5,16 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinanceTrackerMVC.Web", "FinanceTrackerMVC.Web.csproj", "{24619F11-DD71-4F85-97EE-1A5085749219}"
 	ProjectSection(ProjectDependencies) = postProject
-		{80626A6B-6670-44AC-B256-D1BF072DA95F} = {80626A6B-6670-44AC-B256-D1BF072DA95F}
 		{9BE7F337-6A57-48D2-8507-7788F886147F} = {9BE7F337-6A57-48D2-8507-7788F886147F}
+		{AFDCF8B9-46CB-49EA-90A4-542134833D57} = {AFDCF8B9-46CB-49EA-90A4-542134833D57}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinanceTrackerMVC.Infrastructure", "..\FinanceTrackerMVC.Infrastructure\FinanceTrackerMVC.Infrastructure.csproj", "{80626A6B-6670-44AC-B256-D1BF072DA95F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTrackerMVC.Application", "..\FinanceTrackerMVC.Application\FinanceTrackerMVC.Application.csproj", "{9BE7F337-6A57-48D2-8507-7788F886147F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinanceTrackerMVC.Application", "..\FinanceTrackerMVC.Application\FinanceTrackerMVC.Application.csproj", "{9BE7F337-6A57-48D2-8507-7788F886147F}"
 	ProjectSection(ProjectDependencies) = postProject
 		{AFDCF8B9-46CB-49EA-90A4-542134833D57} = {AFDCF8B9-46CB-49EA-90A4-542134833D57}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTrackerMVC.Domain", "..\FinanceTrackerMVC.Domain\FinanceTrackerMVC.Domain.csproj", "{AFDCF8B9-46CB-49EA-90A4-542134833D57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinanceTrackerMVC.Domain", "..\FinanceTrackerMVC.Domain\FinanceTrackerMVC.Domain.csproj", "{AFDCF8B9-46CB-49EA-90A4-542134833D57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,10 +26,6 @@ Global
 		{24619F11-DD71-4F85-97EE-1A5085749219}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24619F11-DD71-4F85-97EE-1A5085749219}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24619F11-DD71-4F85-97EE-1A5085749219}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80626A6B-6670-44AC-B256-D1BF072DA95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80626A6B-6670-44AC-B256-D1BF072DA95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80626A6B-6670-44AC-B256-D1BF072DA95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80626A6B-6670-44AC-B256-D1BF072DA95F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9BE7F337-6A57-48D2-8507-7788F886147F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9BE7F337-6A57-48D2-8507-7788F886147F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BE7F337-6A57-48D2-8507-7788F886147F}.Release|Any CPU.ActiveCfg = Release|Any CPU
