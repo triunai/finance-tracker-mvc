@@ -32,3 +32,15 @@ packages/
 # Other Common Files
 Thumbs.db
 Desktop.ini
+
+# Build Artifacts
+bin/
+obj/
+*.pdb
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+*obj

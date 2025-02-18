@@ -1,6 +1,7 @@
 using FinanceTrackerMVC.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace FinanceTrackerMVC
 {
     public class Program
