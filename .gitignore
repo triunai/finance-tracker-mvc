@@ -1,0 +1,34 @@
+# Visual Studio Files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstate
+
+# Build Artifacts
+bin/
+obj/
+*.pdb
+*.opendbg
+*.nupkg
+
+# NuGet Packages
+packages/
+*.packages
+
+# Temporary Files
+*.tmp
+*.log
+
+# Local Settings
+*.config.user
+
+# IDE-specific Files
+*.vscode/
+*.idea/
+*.sln
+*.csproj.user
+
+# Other Common Files
+Thumbs.db
+Desktop.ini
