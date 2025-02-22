@@ -5,6 +5,7 @@ D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Domain\obj\Debug\net8.0\FinanceTr
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Domain\obj\Debug\net8.0\FinanceTrackerMVC.Domain.AssemblyInfoInputs.cache
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Domain\obj\Debug\net8.0\FinanceTrackerMVC.Domain.AssemblyInfo.cs
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Domain\obj\Debug\net8.0\FinanceTrackerMVC.Domain.csproj.CoreCompileInputs.cache
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Domain\obj\Debug\net8.0\FinanceTrackerMVC.Domain.sourcelink.json
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Domain\obj\Debug\net8.0\FinanceTrackerMVC.Domain.dll
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Domain\obj\Debug\net8.0\refint\FinanceTrackerMVC.Domain.dll
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Domain\obj\Debug\net8.0\FinanceTrackerMVC.Domain.pdb

@@ -15,3 +15,6 @@ D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\bin\Debug\net8.0\F
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\bin\Debug\net8.0\FinanceTrackerMVC.Domain.pdb
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.csproj.AssemblyReference.cache
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.csproj.CopyComplete
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.sourcelink.json
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\bin\Debug\net8.0\FinanceTrackerMVC.Infrastructure.runtimeconfig.json
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Infrastructure\obj\Debug\net8.0\FinanceTrackerMVC.Infrastructure.genruntimeconfig.cache

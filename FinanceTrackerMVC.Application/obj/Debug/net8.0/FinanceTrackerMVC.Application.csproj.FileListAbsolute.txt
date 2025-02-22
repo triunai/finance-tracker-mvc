@@ -8,6 +8,7 @@ D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\Fina
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.AssemblyInfoInputs.cache
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.AssemblyInfo.cs
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.csproj.CoreCompileInputs.cache
+D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.sourcelink.json
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.csproj.CopyComplete
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\FinanceTrackerMVC.Application.dll
 D:\GitFork Repo\MVC-Learning\FinanceTrackerMVC.Application\obj\Debug\net8.0\refint\FinanceTrackerMVC.Application.dll
