@@ -6,8 +6,8 @@
 *.sln.docstate
 
 # Build Artifacts
-bin/
-obj/
+*.bin/
+*.obj/
 *.pdb
 *.opendbg
 *.nupkg
